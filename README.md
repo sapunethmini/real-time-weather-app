@@ -3,8 +3,6 @@
 This is a comprehensive, real-time weather dashboard created as a final project for the iCET Certified Master in Web Development program. The application is built using modern front-end technologies and integrates multiple APIs to provide users with current, future, and historical weather data in a user-friendly interface.
 
 
-![Project Screenshot](https://i.ibb.co/c35a1c/image.png)
-
 ## Features
 
 -   **Current Weather Display:** Shows real-time conditions including temperature, "feels like" temperature, humidity, wind speed, precipitation, and UV index.
